@@ -1,6 +1,12 @@
 # Recurrent Neural Networks for Predictive Maintenance
 * Author: Kumar Ankul
-* Twitter: @UmbertoGriffo
+
+# Group Member
+* Kumar Ankul
+* Kumari Pratibha
+* Gourab Barnwal
+* Anand Prakash
+* Basnat Kumar
 
 ## Colab
 You can try the code directly on [Colab](https://colab.research.google.com/drive/1tjIOud2Cc6smmvZsbl-QDBA6TLA2iEtd).
